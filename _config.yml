@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            ejhay.es
+tagline:          'Eric Hayes - Human'
+description:      'Developer, explorer, and general purpose human.  Questions may be complicated, <a href="https://www.google.com/search?q=law%20of%20parsimony">but answers are always simple</a>.  Want to work together?  <a href="mailto:hello@ejhay.es">Drop me a line.</a>'
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Eric Hayes'
+  url:            https://github.com/ejhayes
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+cdn:              https://dl.dropboxusercontent.com/u/13243755/ejhay.es
+disqus:           ejhayes
+google_analytics: UA-40124993-1
