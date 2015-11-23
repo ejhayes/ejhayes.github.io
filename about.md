@@ -40,5 +40,6 @@ You can find me at these places:
 - [Instagram](https://www.instagram.com/ejhayes)
 - [Strava](https://www.strava.com/athletes/3394621)
 - [Athlinks](http://www.athlinks.com/athletes/ejhayes)
+- [One Click Hangout](https://chrome.google.com/webstore/detail/one-click-google-hangout/aokjakdncnbbfhhammcdkbblmcglpobn)
 
 Or you can shoot me a note at <a href="mailto:hello@ejhay.es">hello@ejhay.es</a>. Thanks for stopping by!
