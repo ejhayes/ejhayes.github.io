@@ -1,22 +1,24 @@
 ---
 layout: page
-title: About Me
+title: The Obligatory About Page
 ---
 
 ![Eric Hayes](/assets/about.jpg)
 
-I'm Eric Hayes, but you probably already knew that.  I'm a Senior Software Engineer at [Jacobian Engineering](https://jacobianengineering.com/).  I'd like to consider myself a generalist, but I tend to gravitate towards the following professional areas:
+I'm a Senior Software Engineer at [Jacobian Engineering](https://jacobianengineering.com/).  I'd like to consider myself a generalist, but I tend to gravitate towards the following areas:
 
 - Backend development
 - Software Architecture
 - Computer Security
 - Automation
 
-## My Philosophies
+## What do I think about Things & Stuff?
+What's an about page without philosophies right?  Here are mine:
 
-- You can’t hire someone to think for you, no matter how much you pay. Innovation comes from hard work and genuine interest.  If you’re gonna half-ass something, don’t start.
-- When you simplify you get to understand and interact with the “essence” of a problem. Solving lots of problems allows you to better understand the "bigger" picture.
-- Embrace the unexpected.  The unexpected brings new opportunities and shines light on who we are and how we react to the unknown.  Have direction, but don’t be inflexible to change.
+- Don't half-ass things.
+- Hard work + passion = innovation.
+- It's important to ask "why" as much as possible, even if you annoy people.
+- Embrace the unexpected. Have direction in life, but don't be inflexible to change.
 
 ## What interests me non-professionally?
 I love the outdoors and believe that there's no such thing as being outside too much. You can usually find me:
@@ -42,4 +44,6 @@ You can find me at these places:
 - [Athlinks](http://www.athlinks.com/athletes/ejhayes)
 - [One Click Hangout](https://chrome.google.com/webstore/detail/one-click-google-hangout/aokjakdncnbbfhhammcdkbblmcglpobn)
 
-Or you can shoot me a note at <a href="mailto:hello@ejhay.es">hello@ejhay.es</a>. Thanks for stopping by!
+## How can I reach you [to send money]?
+
+Shoot me a note at <a href="mailto:hello@ejhay.es">hello@ejhay.es</a>. Thanks for stopping by!

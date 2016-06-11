@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            ejhay.es
 tagline:          'Eric Hayes - Human'
-description:      'Developer, explorer, and general purpose human.  Questions may be complicated, <a href="https://www.google.com/search?q=law%20of%20parsimony">but answers are always simple</a>.  Want to work together?  <a href="mailto:hello@ejhay.es">Drop me a line.</a>'
+description:      'Developer, explorer, and totally cliché.  Questions may be complicated, <a href="https://www.google.com/search?q=law%20of%20parsimony">but answers are always simple</a>.  Want to work together?  <a href="mailto:hello@ejhay.es">Drop me a line.</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
